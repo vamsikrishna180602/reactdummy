@@ -2,7 +2,7 @@
   "name": "swiggy-clone-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vamsikrishna180602.github.io/Swiggy",
+  "homepage": "https://vamsikrishna180602.github.io/reactdummy",
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
     "@testing-library/jest-dom": "^5.17.0",
